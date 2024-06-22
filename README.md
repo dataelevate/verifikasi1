@@ -64,6 +64,15 @@ contoh data simulasi dashboard
 | G04                       | Agus Wijaya                |  A04                       | Senior Engineer            |
 | G05                       | Rina Sari                  |  A05                       | Junior Engineer            |
 
+**ERD**
+## :chart_with_downwards_trend: ERD
+
+ERD (Entity Relationship Diagram) menampilkan hubungan antara entitas dengan atribut. Pada project ini. 
+
+<p align="center">
+  <img  src="app/logo11.jpg">
+</p>
+
 
 ## Demo
 
