@@ -1,15 +1,12 @@
 <h1 align="center">Data Elevate Solution
-  <a href="app/logo2.jpg" target="_blank"><img src="app/logo5.jpg" alt="Data Elevate Solution Logo" style="width: 20px ;" /></a> </h1>
-<p align="center">
-  <img width="40%" src="app/logo2.jpg">
-</p>
+  <a href="app/logo2.jpg" target="_blank"><img src="app/logo5.png" alt="Data Elevate Solution Logo" style="width: 50px ;" /></a> </h1>
 <div align="justify">
   
 Welcome to the Data Elevate Solution repository. This repository contains the codebase, documentation, and resources for our cutting-edge data analysis services. Our goal is to transform raw data into actionable insights, driving businesses toward greater success.
 
 
 
-## <span style="display: flex; align-items: center; font-size: 24px;"> <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" width="50" height="18" style="margin-right: 10px;"> <span>: Tentang</span> </span>
+
 # :world_map: Menu
 
 </p>
