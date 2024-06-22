@@ -1,13 +1,11 @@
-# Data Elevate
-[![scrape_tiktok](https://github.com/Raturisha/scrape_tiktok/actions/workflows/main.yml/badge.svg)](https://github.com/Raturisha/scrape_tiktok/actions/workflows/main.yml)
-  <h1><strong>Top TikTok 2024: Scraping Hypeauditor TikTok  </strong></h1>
+<h1 align="center">data elevate solution
   <p align="center" width="80%">
-    <img width="60%" src="app/logo1.jpg">
+    <img width="40%" src="app/logo1.jpg">
+    <div align="center">
 </p>
 
 <div align="center">
 
-[![scrape_MDS](https://github.com/Raturisha/scrape_tiktok/actions/workflows/main.yml/badge.svg)](https://github.com/Raturisha/scrapa_tiktok/actions/workflows/main.yml)
 
 <p align="center">
     
