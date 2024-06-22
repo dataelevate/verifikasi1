@@ -1,3 +1,6 @@
+<h1 align="center">
+ <a href="app/logo2.jpg" target="_blank"><img src="app/logo1.jpg" alt="Data Elevate Solution Logo" style="width: 300px ;" /></a> </h1>
+
 <h1 align="center">Data Elevate Solution
   <a href="app/logo2.jpg" target="_blank"><img src="app/logo5.png" alt="Data Elevate Solution Logo" style="width: 50px ;" /></a> </h1>
 <p align="justify">
