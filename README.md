@@ -39,74 +39,29 @@ Data Elevate is a data consulting firm specializing in comprehensive data analys
 + **Machine Learning**: Implementing state-of-the-art machine learning algorithms to automate processes and enhance predictive capabilities.
 
 <p align="center">
-  <img width="220" height="150" src="app/logo6.png">
   <img width="220" height="150" src="app/logo8.png">
+   <img width="220" height="150" src="app/logo9.png">
+ 
  
 </p>
 
-## :writing_hand: Deskripsi Project
+## Contributing
+Transform your business data into a strategic asset with Data Elevate! Experience advanced, customized data analysis services tailored to your needs. Make data your greatest asset and drive business growth with our innovative solutions. Contact Data Elevate now and elevate your business to new heights!
 
-<p align="center" width="80%">
-  <img width="400" height="250" src="https://hypeauditor.com/s/auditor/img/logo-sq.png?1585074189.96">
-</p>
+## :desktop_computer: Dashboard Database
 
-<div align="center">
+Berikut merupakan tampilan awal Dashboard Database
 
-<p align="justify">
-Pada project kali ini, yaitu melakukan scraping pada website https://hypeauditor.com/top-tiktok/. Situs web ini dikenal dengan nama "hypeauditor." Top 1,000 TikTok Influencers adalah daftar yang mencantumkan 1,000 akun atau pengguna TikTok yang dianggap memiliki pengaruh besar di platform tersebut. Daftar ini disusun berdasarkan berbagai faktor seperti jumlah pengikut, tingkat interaksi (seperti jumlah like, komentar, dan share), popularitas konten, dan pengaruh yang dimiliki dalam komunitas TikTok.
-</p>
+## :octocat: Demo
 
-<p align="justify">
-Daftar Top 1,000 TikTok Influencers sering kali diperbarui secara berkala karena dinamika cepat dari platform media sosial, di mana popularitas dan pengaruh bisa berubah dengan cepat.
-</p>
-
-</div>
-
-<p align="justify">
-Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
-  </p>
-
- <p align="justify">
-      
-+ **Followers** adalah jumlah orang yang mengikuti akun pengguna TikTok. Ini mencerminkan seberapa besar basis pengikut yang dimiliki oleh seorang pengguna.
-+ **Views** adalah jumlah total tayangan atau jumlah orang yang telah melihat video yang diposting oleh pengguna TikTok. Views adalah salah satu metrik utama untuk mengukur seberapa populer atau berpotensi viral sebuah video.
-+ **Likes**adalah jumlah total suka (heart) yang diberikan oleh pengguna TikTok terhadap video yang diposting. Likes menunjukkan tingkat apresiasi atau kesukaan terhadap konten tersebut.
-+ **Comments** adalah jumlah total komentar yang diberikan oleh pengguna TikTok terhadap video. Komentar bisa mencakup feedback, pertanyaan, atau interaksi langsung antara pengguna dan pembuat konten.
-+ **Shares** adalah jumlah total bagikan (shares) yang dilakukan oleh pengguna TikTok terhadap video tersebut. Bagikan menunjukkan seberapa banyak video tersebut dianggap layak untuk dibagikan kepada orang lain.
-</p>
+Berikut merupakan link untuk shinnyapps atau dashboard dari project kami:
 
 
 
-## :books: Dokumen
-Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
-```mongodb
-{
-  "_id": {
-    "$oid": "66581dc55f54c8360e011b72"
-  },
-  "time_scraped": {
-    "$date": "2024-05-30T06:33:38.334Z"
-  },
-  "rank": "2",
-  "influencer": "janneksplace",
-  "followers": "4.2M",
-  "view": "44M",
-  "likes": "3.7M",
-  "comments": "35.6K",
-  "shares": "341.3K"
-}
-```
-## :bar_chart: Data Scraping Analysis
-Berikut merupakan link data visualisasi dari hasil scraping : 
-+ [TikTok Data Scraping and Visualization](https://rpubs.com/risharatu/Scraping_Hypeauditor_TikTok)
-
-## :computer: PPT Project
-Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat : [PPT Scraping](https://github.com/Raturisha/scrape_tiktok/blob/main/Ratu%20Risha%20Ulfia_G1501231041_Scraping%20TikTok.pdf)
-
-## :smile: Author
- <table>
+##  Author
+ 
   <tr>
-   <td align="center"><a href="https://github.com/Raturisha"><img src="foto koin.jpg" width="145px;" alt=""/><br /><sub><b>Ratu Risha Ulfia</b></sub></a><br /><a
-<br /><sub><b>G1501231041 </b></sub></a>
+   <td align="center"><a ><img src="foto koin.jpg" width="145px;" alt=""/><br /><sub><b>Data Elevate Solution</b></sub></a><br /><a
+<br /><sub><b>dataelevatesolution@gmail.com</b></sub></a>
   </tr>
-</table>
+
