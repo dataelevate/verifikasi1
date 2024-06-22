@@ -4,14 +4,14 @@
   
 Welcome to the Data Elevate Solution repository. This repository contains the codebase, documentation, and resources for our cutting-edge data analysis services. Our goal is to transform raw data into actionable insights, driving businesses toward greater success.
 
-
-
-
-# :world_map: Menu
-
 </p>
 
-[Overview](#airplane-tentang)
+
+# contents :
+</div>
+<div align="center">
+  
+[Overview](Overview)
 •
 [Deskripsi Project](#writing_hand-deskripsi-project)
 •
@@ -22,8 +22,8 @@ Welcome to the Data Elevate Solution repository. This repository contains the co
 [PPT Project](#computer-PPT-project)
 •
 [Author](#smile-pengembang)
-
 </div>
+
 
 
 **Overview**
@@ -39,7 +39,7 @@ Data Elevate is a data consulting firm specializing in comprehensive data analys
 + **Machine Learning**: Implementing state-of-the-art machine learning algorithms to automate processes and enhance predictive capabilities.
 
 <p align="center">
-  <img width="220" height="150" src="https://techbullion.com/wp-content/uploads/2023/06/How-to-find-influencers-on-TikTok-for-your-marketing-campaign-1920x1080-1.webp">
+  <img width="220" height="150" src="app/logo6.png">
   <img width="220" height="150" src="https://imgblog.higo.id/1681105045-d.jpeg?w=1080&q=60">
   <img width="220" height="150" src="https://images.ctfassets.net/az3stxsro5h5/7snPQW0TVLhuzCgYg1veEM/ad284ce41e30bacacfc33d07c9d512fc/May1-How_to_Get_Followers_on_TikTok-Feature-FL">
 </p>
